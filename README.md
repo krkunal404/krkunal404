@@ -39,8 +39,7 @@ problem-solving to real-world products.
 </div>
 
 > This animation is generated automatically from my contribution graph by the GitHub Action in
-> [`.github/workflows/snake.yml`](.github/workflows/snake.yml). It will render as soon as the workflow runs once on
-> GitHub (see setup notes at the bottom of this file).
+> [`.github/workflows/snake.yml`](.github/workflows/snake.yml). 
 
 <br>
 
